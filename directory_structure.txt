@@ -1,0 +1,6 @@
+/SUGIWMS/.devcontainer
+/SUGIWMS/slit_app_sample01.py
+/SUGIWMS/requirements.txt
+/SUGIWMS/Dockerfile
+/SUGIWMS/.devcontainer/devcontainer.json
+/SUGIWMS/使用Data/20240107_0113加工.csv
