@@ -3,6 +3,8 @@ import pandas as pd
 import altair as alt
 import chardet
 
+# sugimoto コメント
+
 # Streamlitアプリのタイトル
 st.title('作業グループごとの時系列作業数分析')
 
